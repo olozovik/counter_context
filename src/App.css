@@ -1,0 +1,15 @@
+.counter {
+  display: flex;
+  align-items: center;
+}
+
+.counter span {
+  margin: 0 10px;
+  color: tomato;
+}
+
+.counter button {
+  padding: 5px 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
